@@ -66,10 +66,14 @@ git status
 *	git rebase main
 
 # Troubleshooting Guide
-# Challenges and Resolving:
-#	Merge Conflicts:
+# Challenges and solution:
+# 1. Merge Conflicts:
 * Challenge: Conflicts occurred when merging feature-2 into main due to modifications on the same line.
 * Solution: I manually resolved conflicts by editing the file, testing the final version, and committing the resolved changes.
+# 2.	Understanding Pull Requests:
+*	Challenge: Initially, I was unsure how to request a code review before merging.
+*	Solution: I explored GitHub’s documentation and followed best practices by assigning reviewers and addressing feedback before merging
+
 
 # Issue & Solution
 * Git is not recognized:	Ensure Git is installed and added to system PATH
