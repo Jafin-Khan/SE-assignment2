@@ -26,16 +26,16 @@ git config --global user.email "your.email@example.com"
 # Usage Examples
 # Example 1: Running the Program
 
-User Input:
+* User Input:
 Enter your name: Alice
-Output:
+* Output:
 Hello, Alice!
 
 # Example 2: Handling Empty Input
 
-User Input:
+* User Input:
 Enter your name:   
-Output:
+* Output:
 Name cannot be empty. Please try again.
 Enter your name: Bob
 Hello, Bob!
@@ -45,25 +45,25 @@ To check the status of your repository:
 git status
 
 # Example 4: Committing Changes
-To commit and push changes:
-git add .
-git commit -m "Updated hello.py with improved input validation"
-git push origin main
+* To commit and push changes:
+* git add .
+* git commit -m "Updated hello.py with improved input validation"
+* git push origin main
 
 # Advanced Git Commands
 
 # Branch Management
-•	Create a new branch: 
-•	git checkout -b new-feature
-•	Switch branches: 
-•	git checkout main
-•	Delete a local branch: 
-•	git branch -d old-feature
+*	Create a new branch: 
+*	git checkout -b new-feature
+*	Switch branches: 
+*	git checkout main
+*	Delete a local branch: 
+*	git branch -d old-feature
 
 # Rebasing
-•	Rebase feature branch onto main: 
-•	git checkout feature-branch
-•	git rebase main
+*	Rebase feature branch onto main: 
+*	git checkout feature-branch
+*	git rebase main
 
 # Troubleshooting Guide
 # Issue & Solution
@@ -71,16 +71,16 @@ Git is not recognized:	Ensure Git is installed and added to system PATH
 Merge conflicts occur:	Manually resolve conflicts and commit changes
 
 # Future Improvements
-•	Implement additional features such as saving user input.
-•	Add multi-language support for greetings.
+*	Implement additional features such as saving user input.
+*	Add multi-language support for greetings.
 
 # Best Practices Followed
 * Version Control: Git-based workflow using feature branches and pull requests.
 * Collaboration: Issues and PR reviews ensure quality contributions.
-•	Documentation: Proper README and commit messages for maintainability.
-•	Error Handling: Basic input validation prevents invalid inputs.
-•	Modularity: Code structure is clean and easily extensible.
-•	Security: Avoids hardcoding sensitive data.
+*	Documentation: Proper README and commit messages for maintainability.
+*	Error Handling: Basic input validation prevents invalid inputs.
+*	Modularity: Code structure is clean and easily extensible.
+*	Security: Avoids hardcoding sensitive data.
 
 # Contributors
 •	Name: Jafin Khan
