@@ -66,9 +66,14 @@ git status
 *	git rebase main
 
 # Troubleshooting Guide
+# Challenges and Resolving:
+*	Merge Conflicts:
+* o	Challenge: Conflicts occurred when merging feature-2 into main due to modifications on the same line.
+* o	Solution: I manually resolved conflicts by editing the file, testing the final version, and committing the resolved changes.
+
 # Issue & Solution
-Git is not recognized:	Ensure Git is installed and added to system PATH
-Merge conflicts occur:	Manually resolve conflicts and commit changes
+* Git is not recognized:	Ensure Git is installed and added to system PATH
+* Merge conflicts occur:	Manually resolve conflicts and commit changes
 
 # Future Improvements
 *	Implement additional features such as saving user input.
