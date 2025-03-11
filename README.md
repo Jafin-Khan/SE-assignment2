@@ -75,8 +75,8 @@ Merge conflicts occur:	Manually resolve conflicts and commit changes
 •	Add multi-language support for greetings.
 
 # Best Practices Followed
-*•Version Control: Git-based workflow using feature branches and pull requests.
-•	Collaboration: Issues and PR reviews ensure quality contributions.
+* Version Control: Git-based workflow using feature branches and pull requests.
+* Collaboration: Issues and PR reviews ensure quality contributions.
 •	Documentation: Proper README and commit messages for maintainability.
 •	Error Handling: Basic input validation prevents invalid inputs.
 •	Modularity: Code structure is clean and easily extensible.
