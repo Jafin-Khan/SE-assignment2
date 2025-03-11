@@ -4,8 +4,6 @@
 ## Project Description
 This project is designed to demonstrate Git and GitHub workflows, including branching, merging, resolving conflicts, and collaboration using pull requests.
 
-## Installation Instructions
-To run this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
