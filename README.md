@@ -1,7 +1,7 @@
 # SE-assignment2 - GitHub Project
-Project Description
+# Project Description
 This project is a comprehensive demonstration of GitHub version control techniques, including repository setup, branching, merging, resolving conflicts, and collaboration using pull requests. It also covers best practices for documentation and issue tracking. The program prompts the user for input and returns a greeting message. It serves as a foundational project for understanding distributed version control systems.
-Installation Instructions
+# Installation Instructions
 Follow these steps to set up the project on your local machine:
 Step 1: Prerequisites
 Ensure you have the following installed:
