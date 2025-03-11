@@ -67,9 +67,9 @@ git status
 
 # Troubleshooting Guide
 # Challenges and Resolving:
-*	Merge Conflicts:
-* o	Challenge: Conflicts occurred when merging feature-2 into main due to modifications on the same line.
-* o	Solution: I manually resolved conflicts by editing the file, testing the final version, and committing the resolved changes.
+#	Merge Conflicts:
+* Challenge: Conflicts occurred when merging feature-2 into main due to modifications on the same line.
+* Solution: I manually resolved conflicts by editing the file, testing the final version, and committing the resolved changes.
 
 # Issue & Solution
 * Git is not recognized:	Ensure Git is installed and added to system PATH
