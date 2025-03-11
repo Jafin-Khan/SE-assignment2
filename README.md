@@ -91,7 +91,7 @@ git status
 *	Modularity: Code structure is clean and easily extensible.
 *	Security: Avoids hardcoding sensitive data.
 
-# Contributors
+# Contributor
 •	Name: Jafin Khan
 
 
